@@ -5,8 +5,7 @@
 ##### BiliBili(哔哩哔哩)账号主页:<https://space.bilibili.com/661491357>  
 ##### Aerfaying(阿儿法营)账号昵称:awaPerfect  
 ##### Aerfaying(阿儿法营)账号主页:<https://www.aerfaying.com/Users/1150663>  
-##### Tencent QQ(腾讯QQ)账号昵称:ComputerSystem  
-##### Tencent QQ(腾讯QQ)"QQ号":2783645662  
----  
+##### Tencent QQ(腾讯QQ)账号昵称:awaPerfect  
+##### Tencent QQ(腾讯QQ)"QQ号":2415388164
 搭建网站支持:Github Pages  
-© ComputerSystem  
+© awaPerfect 
